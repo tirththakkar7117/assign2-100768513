@@ -1,0 +1,21 @@
+.DS_Store
+.DS_Store?
+._*
+.Splotlight-V100
+.Trashes
+ehthumbs.db
+
+# Dubug Files
+*.log
+*.sql
+
+# Wordpress standard files/folders
+uploads
+upgrade
+
+# Wordpress plugin folders
+plugins/current-template-file
+plugins/gutenberg
+
+# SRC files/folders
+node_modules

@@ -1,0 +1,19 @@
+.center {
+    justify-content: center;
+}
+
+.post-query {
+    margin: 0 10% 0 10%;
+}
+
+.margin0 {
+    margin: 0;
+}
+
+hr.is-style-twentytwentyone-separator-thick {
+    width: 100% !important;
+}
+
+h2.entry-title.default-max-width {
+    font-size: 30px;
+}

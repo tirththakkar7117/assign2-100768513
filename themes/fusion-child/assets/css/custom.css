@@ -39,3 +39,22 @@ button.wp-block-search__button {
 button.sub-menu-toggle {
     margin: 2px 0px 0px 0px;
 }
+
+.site-description {
+    font-size: 20px;
+    letter-spacing: 1px !important;
+}
+
+a:hover {
+    color: #000000;
+}
+
+h1.entry-title {
+    font-size: 60px !important;
+    text-align: center;
+}
+
+h1.page-title {
+    font-size: 60px !important;
+    text-align: center;
+}

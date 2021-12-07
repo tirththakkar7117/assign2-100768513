@@ -3,7 +3,7 @@
  * Adding custom theme template tags
  */
 
-function custom_post_wp_query(){
+function custom_post_wp_query() {
     $custompost_args = array(
         'post-type'      => 'post',
         'post-status'    => 'publish',

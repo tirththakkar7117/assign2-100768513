@@ -29,3 +29,13 @@ input#wp-block-search__input-1 {
 a.wp-block-button__link {
     color: #000000;
 }
+
+button.wp-block-search__button {
+    width: 130px;
+    height: 40px;
+    padding: 10px 20px 11px 20px !important;
+}
+
+button.sub-menu-toggle {
+    margin: 2px 0px 0px 0px;
+}

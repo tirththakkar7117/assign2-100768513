@@ -21,3 +21,7 @@ h2.entry-title.default-max-width {
 .post-query {
     margin: 0 10% 0 10%;
 }
+
+input#wp-block-search__input-1 {
+    margin: 0px 20px 0px 0px;
+}

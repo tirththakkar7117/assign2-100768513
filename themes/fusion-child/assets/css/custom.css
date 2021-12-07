@@ -17,3 +17,7 @@ hr.is-style-twentytwentyone-separator-thick {
 h2.entry-title.default-max-width {
     font-size: 30px;
 }
+
+.post-query {
+    margin: 0 10% 0 10%;
+}
